@@ -15,5 +15,6 @@
 	},
 	"files.autoSave": "off",
 	"workbench.colorTheme": "Ayu Mirage Bordered",
-	"terminal.integrated.gpuAcceleration": "auto"
+	"terminal.integrated.gpuAcceleration": "auto",
+	"markdown.extension.toc.updateOnSave": true
 }
