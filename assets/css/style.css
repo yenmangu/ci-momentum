@@ -4,10 +4,26 @@
 /* define css-variables for color */
 
 :root {
+	--primary-royal-purple: #6a0dad;
 	--primary-vibrant-red: #ff3b30;
 	--secondary-deep-charcoal: #1e1e1e;
 	--accent-cool-gray: #f2f2f2;
 	--highlights-energetic-orange: #ff9500;
+}
+
+/* Utility classes for overriding bootstrap */
+
+.energy {
+	color: var(--highlights-energetic-orange);
+}
+.royal {
+	color: var(--primary-royal-purple);
+}
+
+.btn.royal {
+	background-color: var(--primary-royal-purple);
+	color: var(--accent-cool-gray);
+	border: var(--primary-royal-purple);
 }
 
 /* Remove default styles applied by browser */
@@ -35,6 +51,7 @@ body {
 html,
 html > * {
 	font-family: 'Montserrat', sans-serif;
+	color: var(--secondary-deep-charcoal);
 }
 
 h1.logo-font {
