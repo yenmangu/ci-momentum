@@ -4,6 +4,7 @@
   - [User Experience](#user-experience)
     - [UX Overview](#ux-overview)
     - [User Stories](#user-stories)
+    - [MSC Prioritisation](#msc-prioritisation)
   - [Features](#features)
     - [Existing Features](#existing-features)
     - [Features to Implement](#features-to-implement)
@@ -78,6 +79,33 @@ Users can directly contact Momentum if they wish to work with us as we are alway
 
   *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
 </details>
+
+<details>
+  <summary>User 4:</summary>
+  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
+
+  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
+</details>
+
+<details>
+  <summary>User 5:</summary>
+  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
+
+  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
+</details>
+
+<details>
+  <summary>User 6:</summary>
+  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
+
+  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
+</details>
+
+### MSC Prioritisation
+
+Using the **Must-Have**, **Should-Have**, **Could-Have** prioritisation method, the user stories are prioritised in order to better manage the time and resources of the project effectively.
+
+
 
 ## Features
 
