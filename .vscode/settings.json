@@ -16,5 +16,6 @@
 	"files.autoSave": "off",
 	"workbench.colorTheme": "Ayu Mirage Bordered",
 	"terminal.integrated.gpuAcceleration": "auto",
-	"markdown.extension.toc.updateOnSave": true
+	"markdown.extension.toc.updateOnSave": true,
+	"liveServer.settings.port": 5501
 }
