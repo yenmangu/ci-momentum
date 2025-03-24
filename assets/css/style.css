@@ -4,17 +4,29 @@
 /* define css-variables for color */
 
 :root {
-	--primary-royal-purple: rgba(106, 13, 173);
-	--primary-vibrant-red: rgba(255, 59, 48);
-	--secondary-deep-charcoal: rgba(30, 30, 30);
-	--accent-cool-gray: rgba(242, 242, 242);
-	--highlights-energetic-orange: rgba(255, 149, 0);
+	--royal-purple: 106, 13, 173;
+	--vibrant-red: 255, 59, 48;
+	--deep-charcoal: 30, 30, 30;
+	--cool-gray: 242, 242, 242;
+	--energetic-orange: 255, 149, 0;
+	--text-gray-value: 235, 235, 235;
+	--test-orange: 224, 131, 0;
+
+	--primary-energetic-orange: rgb(var(--test-orange));
+	--primary-royal-purple: rgb(var(--royal-purple));
+	--secondary-deep-charcoal: rgb(var(--deep-charcoal));
+	--secondary-cool-gray: rgb(var(--cool-gray));
+	--accent-vibrant-red: rgb(var(--vibrant-red));
+	--text-gray: rgb(var(--text-gray-value));
+
+	--orange-opacity-bg: rgba(var(--energetic-orange), 0.6);
+	--purple-opacity-bg: rgba(var(--royal-purple), 0.6);
 }
 
 /* Utility classes for overriding bootstrap */
 
 .energy {
-	color: var(--highlights-energetic-orange);
+	color: var(--primary-energetic-orange);
 }
 .royal {
 	color: var(--primary-royal-purple);
@@ -22,7 +34,7 @@
 
 .btn.royal {
 	background-color: var(--primary-royal-purple);
-	color: var(--accent-cool-gray);
+	color: var(--secondary-cool-gray);
 	border: var(--primary-royal-purple);
 }
 
@@ -45,12 +57,18 @@ body {
 	width: 100%;
 	display: flex;
 	flex-direction: column;
-	background-color: var(--accent-cool-gray);
+	background-color: var(--secondary-cool-gray);
 }
 
 .logo-font {
 	font-family: 'Chakra Petch', sans-serif;
 	font-weight: 700;
+	font-style: italic;
+}
+
+.logo-font-light {
+	font-family: 'Chakra Petch', sans-serif;
+	font-weight: 500;
 	font-style: italic;
 }
 
@@ -61,7 +79,7 @@ html > * {
 }
 
 h1.logo-font {
-	color: var(--accent-cool-gray);
+	color: var(--secondary-cool-gray);
 	text-transform: uppercase;
 }
 /* Hero */
@@ -82,4 +100,15 @@ section.hero {
 
 .hero h1 {
 	text-align: end;
+}
+
+.hero p {
+	margin-bottom: 0;
+}
+
+#testimonials {
+	background-color: rgba(var(--test-orange));
+}
+#testimonials p {
+	color: var(--text-gray);
 }
