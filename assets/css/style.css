@@ -26,6 +26,12 @@
 	border: var(--primary-royal-purple);
 }
 
+.text-small {
+	color: var(--secondary-deep-charcoal);
+	font-size: 80%;
+	line-height: 100%;
+}
+
 /* Remove default styles applied by browser */
 
 * {
