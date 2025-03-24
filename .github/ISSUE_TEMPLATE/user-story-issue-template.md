@@ -1,7 +1,7 @@
 ---
 name: User story issue template
 about: Template for User story, Acceptance Criteria and Tasks
-title: ''
+title: 'User Story'
 labels: ''
 assignees: ''
 
