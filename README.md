@@ -113,67 +113,22 @@ I used [coolors.co](https://coolors.co/6a0dad-ff3b30-1e1e1e-f2f2f2-ff9500) to ge
 | As a user  | I would like the website to be fully responsive                                               | so that I can easily navigate and access information from my phone, tablet, or desktop. |
 | As a user  | I would like to see a 404 error page if I get lost                                            | so that it's obvious that I've stumbled upon a page that doesn't exist.                 |
 
+## Wireframes
 
-### User Stories
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+I've used [Figma](https://www.figma.com/) to design my site wireframes.
 
-<details>
-  <summary>User 1:</summary>
-  Member of general public who is unsure but keen to get into fitness.
-
-  *"As an average person, I want to know more about this app, to help me start my fitness journey"*
-</details>
-
-<details>
-  <summary>User 2:</summary>
-  Local Gym owner looking to offer better services to existing customers.
-
-  *"As a local gym owner, I want to be able to contact the company about a data conscious app that can integrate into my own infrastructure, to better help my existing customers on their personal fitness journey."*
-</details>
-
-<details>
-  <summary>User 3:</summary>
-  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
-
-  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
-</details>
-
-<details>
-  <summary>User 4:</summary>
-  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
-
-  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
-</details>
-
-<details>
-  <summary>User 5:</summary>
-  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
-
-  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
-</details>
-
-<details>
-  <summary>User 6:</summary>
-  Member of public already on a fitness journey, looking for information on a comprehensive fitness tracking system.
-
-  *"As someone who has already started a personal fitness journey, I am looking for information about a system offered that can track my specific goals and targets."*
-</details>
-
-### MSC Prioritisation
-
-Using the **Must-Have**, **Should-Have**, **Could-Have** prioritisation method, the user stories are prioritised in order to better manage the time and resources of the project effectively.
-
-
+| Page                           | Mobile                                                                       | Tablet | Desktop |
+| ------------------------------ | ---------------------------------------------------------------------------- | ------ | ------- |
+| Home                           | ![screenshot](documentation/ux/wireframes/ios/home.png)                      |        |         |
+| Fitness User Registration      | ![screenshot](documentation/ux/wireframes/ios/fitness-registration.png)      |        |         |
+| Fitness User Registration Form | ![screenshot](documentation/ux/wireframes/ios/fitness-registration-form.png) |        |         |
 
 ## Features
 
-### Existing Features
-
-<!-- Existing features here -->
-
-### Features to Implement
+### Future Features
 
 <!-- Features to implement here -->
-
 - Navigation
 - Primary user registration form
 - Secondary user 'interest' form
@@ -181,25 +136,27 @@ Using the **Must-Have**, **Should-Have**, **Could-Have** prioritisation method, 
 - Platform feature showcase
 - Responsive on any device
 
-## Design
+### **MoSCoW** Prioritisation
 
-<!-- Design here -->
+Using the **Must-Have**, **Should-Have**, **Could-Have** and **Won't-Have** prioritisation method, the user stories are prioritised in order to better manage the time and resources of the project effectively.
 
-### Colour Scheme
 
-<!-- Colour pallete -->
 
-### Typography
+## Tools & Technologies
 
-<!-- Typography -->
+| Tool / Tech                                                                                                             | Use                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [![badge](https://img.shields.io/badge/Markdown_Builder-grey?logo=markdown&logoColor=000000)](https://markdown.2bn.dev) | Generate README and TESTING templates.                                      |
+| [![badge](https://img.shields.io/badge/Git-grey?logo=git&logoColor=F05032)](https://git-scm.com)                        | Version control. (`git add`, `git commit`, `git push`)                      |
+| [![badge](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com)                   | Secure online code storage.                                                 |
+| [![badge](https://img.shields.io/badge/VSCode-grey?logo=htmx&logoColor=007ACC)](https://code.visualstudio.com)          | Local IDE for development.                                                  |
+| [![badge](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML)      | Main site content and layout.                                               |
+| [![badge](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS)         | Design and layout.                                                          |
+| [![badge](https://img.shields.io/badge/GitHub_Pages-grey?logo=githubpages&logoColor=222222)](https://pages.github.com)  | Hosting the deployed front-end site.                                        |
+| [![badge](https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com)       | Front-end CSS framework for modern responsiveness and pre-built components. |
+| [![badge](https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=F24E1E)](https://www.figma.com)                  | Creating wireframes.                                                        |
+| [![badge](https://img.shields.io/badge/Font_Awesome-grey?logo=fontawesome&logoColor=528DD7)](https://fontawesome.com)   | Icons.                                                                      |
 
-### Wireframes
-
-<!-- Wireframes -->
-
-## Technologies Used
-
-<!-- Technologies used here -->
 
 ## Frameworks, Libraries & Programs Used
 
