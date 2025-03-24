@@ -14,6 +14,8 @@ The website described here is a signup page for both types of user, to register 
 
 <!-- UX here -->
 
+## UX
+
 ### UX Overview
 
 This platform is meant to attract two types of users.
@@ -30,6 +32,76 @@ Users can directly contact Momentum if they wish to work with us as we are alway
 
 ### The 5 Planes of UX
 
+#### 1. Strategy Plane
+##### Purpose
+- Advertise and introduce the App to new Users
+- Provide a sign up service to new Users for the App
+- Provide information to Users about the App and the services it provides.
+
+##### Business Goals
+- New Users signing up to the Momentum App
+- Return business from User Subscription to the Momentum App
+
+##### Primary User Needs
+- Registration forms
+- Details of the services the Momentum platform will provide
+- Information on how to start getting into fitness
+- Links to fitness articles (this could provide SEO opportunities with back linking)
+
+
+#### 2. Scope Plane
+##### Features
+- A full list of [Features](#features-1) can be viewed in detail below.
+
+##### Content Requirements
+- Clear, motivational text about the Momentum platform's mission.
+- Photos showcasing the platform
+- Descriptions of platform features.
+- Forms for User sign-up.
+
+#### 3. Structure Plane
+##### Information Architecture
+- **Navigation Menu**:
+  - Accessible links in the navbar.
+- **Hierarchy**:
+  - Clear call-to-action buttons.
+  - Prominent placement of social media links in the footer.
+
+##### User Flow
+1. User lands on the home page → learns about the Momentum platform's mission.
+2. Navigates to the fitness user page → learns about the Momentum plaform's features.
+3. Signs up via the sign-up page.
+
+
+#### 4. Skeleton Plane
+##### Wireframe Suggestions
+- A full list of [Wireframes](#wireframes) can be viewed in detail below.
+
+#### 5. Surface Plane
+##### Visual Design Elements
+- **[Colours](#colour-scheme)**: see below
+- **[Typography](#typography)**: see below
+
+### Colour Scheme
+
+I used [coolors.co](https://coolors.co/6a0dad-ff3b30-1e1e1e-f2f2f2-ff9500) to generate my color palette.
+
+- `rgb(255,149,0)` / `#FF9500` primary text.
+- `rgb(106, 13, 173)` / `#6A0DAD` primary highlights.
+- `rgb(30,30,30)` / `#1E1E1E` secondary text.
+- `rgb(255,59,48)` / `#FF3B30` secondary highlights.
+- `rgb(242,242,242)` / `#F2F2f2` background and tertiary.
+
+![screenshot](documentation/ux/colours/momentum-palette.png)
+
+### Typography
+
+- [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch) Was used for the logo typeface, and main header.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the secondary headers and text body.
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+
+### The 5 Planes of UX
+
 #### Strategy Plane
 
 #### Scope Plane
@@ -37,6 +109,9 @@ Users can directly contact Momentum if they wish to work with us as we are alway
 #### Structure Plane
 
 #### Skeleton Plane
+
+
+
 
 ### User Stories
 
