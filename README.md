@@ -28,6 +28,16 @@ There is clear navigation for both types of User, designed to clearly guide the 
 
 Users can directly contact Momentum if they wish to work with us as we are always looking for new talent to join our growing family.
 
+### The 5 Planes of UX
+
+#### Strategy Plane
+
+#### Scope Plane
+
+#### Structure Plane
+
+#### Skeleton Plane
+
 ### User Stories
 
 <details>
