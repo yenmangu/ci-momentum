@@ -4,11 +4,11 @@
 /* define css-variables for color */
 
 :root {
-	--primary-royal-purple: #6a0dad;
-	--primary-vibrant-red: #ff3b30;
-	--secondary-deep-charcoal: #1e1e1e;
-	--accent-cool-gray: #f2f2f2;
-	--highlights-energetic-orange: #ff9500;
+	--primary-royal-purple: rgba(106, 13, 173);
+	--primary-vibrant-red: rgba(255, 59, 48);
+	--secondary-deep-charcoal: rgba(30, 30, 30);
+	--accent-cool-gray: rgba(242, 242, 242);
+	--highlights-energetic-orange: rgba(255, 149, 0);
 }
 
 /* Utility classes for overriding bootstrap */
