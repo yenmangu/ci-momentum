@@ -1,32 +1,3 @@
-## Table of Contents
-
-- [Momentum](#momentum)
-  - [User Experience](#user-experience)
-    - [UX Overview](#ux-overview)
-    - [User Stories](#user-stories)
-    - [MSC Prioritisation](#msc-prioritisation)
-  - [Features](#features)
-    - [Existing Features](#existing-features)
-    - [Features to Implement](#features-to-implement)
-  - [Design](#design)
-    - [Colour Scheme](#colour-scheme)
-    - [Typography](#typography)
-    - [Wireframes](#wireframes)
-  - [Technologies Used](#technologies-used)
-  - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
-  - [Testing](#testing)
-    - [Validation results](#validation-results)
-    - [Manual Testing](#manual-testing)
-    - [Lighthouse Report](#lighthouse-report)
-  - [Deployment \& Local Development](#deployment--local-development)
-    - [GitHub Pages](#github-pages)
-    - [Forking the GitHub Repository](#forking-the-github-repository)
-    - [Local Clone](#local-clone)
-  - [Credits](#credits)
-  - [Acknowledgements](#acknowledgements)
-
----
-
 # Momentum
 
 Momentum is a fitness-focused platform designed to support users at any stage of their fitness journey — whether you're just getting started or already committed to an active lifestyle. Our goal is to provide the tools, guidance, and motivation needed to help you stay consistent and make progress at your own pace. From personalized workout plans to expert tips, Momentum is built to keep you moving forward.
