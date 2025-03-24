@@ -140,7 +140,8 @@ I've used [Figma](https://www.figma.com/) to design my site wireframes.
 
 Using the **Must-Have**, **Should-Have**, **Could-Have** and **Won't-Have** prioritisation method, the user stories are prioritised in order to better manage the time and resources of the project effectively.
 
-
+<!-- NOTES FOR ME -->
+<!-- DOUBLE CHECK ALL CREDITS AND RESOURCES USED BEFORE SUBMISSION. -->
 
 ## Tools & Technologies
 
@@ -157,34 +158,55 @@ Using the **Must-Have**, **Should-Have**, **Could-Have** and **Won't-Have** prio
 | [![badge](https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=F24E1E)](https://www.figma.com)                  | Creating wireframes.                                                        |
 | [![badge](https://img.shields.io/badge/Font_Awesome-grey?logo=fontawesome&logoColor=528DD7)](https://fontawesome.com)   | Icons.                                                                      |
 
+## Agile Development Process
 
-## Frameworks, Libraries & Programs Used
+### GitHub Projects
 
-<!-- Frameworks, Libraries etc here -->
+[GitHub Projects](https://www.github.com/yenmangu/ci-momentum/projects) served as an Agile tool for this project. Through it, User Stories, issues/bugs, and Milestone tasks were planned, then subsequently tracked on a regular basis using the Kanban project board.
 
-## Testing
-
-### Validation results
-
-<!-- Validation here -->
-
-### Manual Testing
-
-<!-- Manual testing here -->
-
-### Lighthouse Report
-
-<!-- Lighthouse here -->
-
-## Deployment & Local Development
+![screenshot](documentation/agile/gh-projects.png)
 
 ### GitHub Pages
 
-<!-- GitHub Pages -->
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
-### Forking the GitHub Repository
+- In the [GitHub repository](https://www.github.com/yenmangu/ci-momentum), navigate to the "Settings" tab.
+- In Settings, click on the "Pages" link from the menu on the left.
+- From the "Build and deployment" section, click the drop-down called "Branch", and select the **main** branch, then click "Save".
+- The page will be automatically refreshed with a detailed message display to indicate the successful deployment.
+- Allow up to 5 minutes for the site to fully deploy.
 
-<!-- Forking the GitHub Repository -->
+The live link can be found on [GitHub Pages](https://yenmangu.github.io/ci-momentum).
+
+### Local Development
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://www.github.com/yenmangu/ci-momentum).
+2. Locate and click on the green "Code" button at the very top, above the commits and files.
+3. Select whether you prefer to clone using "HTTPS", "SSH", or "GitHub CLI", and click the "copy" button to copy the URL to your clipboard.
+4. Open "Git Bash" or "Terminal".
+5. Change the current working directory to the location where you want the cloned directory.
+6. In your IDE Terminal, type the following command to clone the repository:
+	- `git clone https://www.github.com/yenmangu/ci-momentum.git`
+7. Press "Enter" to create your local clone.
+
+
+#### Forking
+
+By forking the GitHub Repository, you make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository. You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://www.github.com/yenmangu/ci-momentum).
+2. At the top of the Repository, just below the "Settings" button on the menu, locate and click the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+### Local VS Deployment
+
+There are no remaining major differences between the local version when compared to the deployed version online.
 
 ### Local Clone
 
@@ -192,8 +214,82 @@ Using the **Must-Have**, **Should-Have**, **Could-Have** and **Won't-Have** prio
 
 ## Credits
 
-<!-- Credits here -->
+⚠️ INSTRUCTIONS ⚠️
 
-## Acknowledgements
+In the following sections, you need to reference where you got your content, media, and any extra help. It is common practice to use code from other repositories and tutorials (which is totally acceptable), however, it is important to be very specific about these sources to avoid potential plagiarism.
 
-<!-- Acknowledgements here -->
+⚠️ --- END ---⚠️
+
+### Content
+
+⚠️ INSTRUCTIONS ⚠️
+
+Use this space to provide attribution links for any borrowed code snippets, elements, and resources. Ideally, you should provide an actual link to every resource used, not just a generic link to the main site. If you've used multiple components from the same source (such as Bootstrap), then you only need to list it once, but if it's multiple Codepen samples, then you should list each example individually. If you've used AI for some assistance (such as ChatGPT or Perplexity), be sure to mention that as well. A few examples have been provided below to give you some ideas.
+
+⚠️ --- END ---⚠️
+
+| Source                                                             | Notes                                                                   |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [MDN Web Docs_ ](https://developer.mozilla.org/en-US/docs/Web/CSS) | CSS Syntax & Reference Material                                         |
+| [Markdown Builder](https://markdown.2bn.dev)                       | Help generating Markdown files                                          |
+| [Chris Beams](https://chris.beams.io/posts/git-commit)             | "How to Write a Git Commit Message"                                     |
+| [Rosie Resumé](https://codeinstitute.net)                          | Code Institute walkthrough project inspiration                          |
+| [Bootstrap](https://getbootstrap.com)                              | Various components / responsive front-end framework                     |
+| [ChatGPT](https://chatgpt.com)                                     | Help with asset generation, website copy and colour palette inspiration |
+
+### Media
+
+⚠️ INSTRUCTIONS ⚠️
+
+Use this space to provide attribution links to any media files borrowed from elsewhere (images, videos, audio, etc.). If you're the owner (or a close acquaintance) of some/all media files, then make sure to specify this information. Let the assessors know that you have explicit rights to use the media files within your project. Ideally, you should provide an actual link to every media file used, not just a generic link to the main site, unless it's AI-generated artwork.
+
+Looking for some media files? Here are some popular sites to use. The list of examples below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links by sending yourself (or Slackbot) the following command: `!freemedia`.
+
+- Images`
+    - [Pexels](https://www.pexels.com)
+    - [Unsplash](https://unsplash.com)
+    - [Pixabay](https://pixabay.com)
+    - [Lorem Ipsum](https://lipsum.com) (Placeholder text during development)
+    - [Lorem Picsum](https://picsum.photos) (placeholder images)
+    - [Wallhere](https://wallhere.com) (wallpaper / backgrounds)
+    - [This Person Does Not Exist](https://thispersondoesnotexist.com) (reload to get a new person)
+- Audio
+    - [Audio Micro](https://www.audiomicro.com/free-sound-effects)
+- Video
+    - [Videvo](https://www.videvo.net)
+- Image Compression
+    - [TinyPNG](https://tinypng.com) (for images <5MB)
+    - [CompressPNG](https://compresspng.com) (for images >5MB)
+
+A few examples have been provided below to give you some ideas on how to do your own Media credits.
+
+⚠️ --- END ---⚠️
+
+| Source                                                                                     | Notes                                                |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| [favicon.io](https://favicon.io)                                                           | Generating the favicon                               |
+| [Rosie CV](https://codeinstitute.net)                                                      | Sample images provided from the walkthrough projects |
+| [Font Awesome](https://fontawesome.com)                                                    | Icons used throughout the site                       |
+| [Pexels](https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg)                 | Hero image                                           |
+| [Wallhere](https://c.wallhere.com/images/9c/c8/da4b4009f070c8e1dfee43d25f99-2318808.jpg!d) | Background wallpaper                                 |
+| [Pixabay](https://cdn.pixabay.com/photo/2017/09/04/16/58/passport-2714675_1280.jpg)        | Background wallpaper                                 |
+| [DALL-E 3](https://openai.com/index/dall-e-3)                                              | AI generated artwork                                 |
+| [TinyPNG](https://tinypng.com)                                                             | Compressing images < 5MB                             |
+| [CompressPNG](https://compresspng.com)                                                     | Compressing images > 5MB                             |
+| [CloudConvert](https://cloudconvert.com/webp-converter)                                    | Converting images to `.webp`                         |
+
+### Acknowledgements
+
+⚠️ INSTRUCTIONS ⚠️
+
+Use this space to provide attribution and acknowledgement to any supports that helped, encouraged, or supported you throughout the development stages of this project. It's always lovely to appreciate those that help us grow and improve our developer skills. A few examples have been provided below to give you some ideas.
+
+⚠️ --- END ---⚠️
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://www.github.com/TravelTimN) for the support throughout the development of this project.
+- I would like to thank the [Code Institute](https://codeinstitute.net) Tutor Team for their assistance with troubleshooting and debugging some project issues.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and impostor syndrome.
+- I would like to thank my partner, for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+
+
