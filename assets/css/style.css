@@ -159,7 +159,56 @@ section.hero {
 	margin-top: 1.5rem;
 }
 
+/* Fitness Registration */
+/*
+#cta-fitness button.fitness-cta {
+	background-color: rgba(255, 255, 255, 0);
+	border: 2px solid var(--primary-royal-purple);
+	color: var(--primary-royal-purple);
+}
+
+#cta-fitness button.fitness-cta:hover {
+	background-color: var(--primary-royal-purple);
+	color: var(--secondary-cool-gray);
+	border-color: var(--primary-royal-purple);
+} */
+
+button.royal-btn {
+	background-color: rgba(255, 255, 255, 0);
+	border: 2px solid var(--primary-royal-purple);
+	color: var(--primary-royal-purple);
+}
+
+button.royal-btn:hover {
+	background-color: var(--primary-royal-purple);
+	color: var(--secondary-cool-gray);
+	border-color: var(--primary-royal-purple);
+}
+
+.fitness-cta
+/* Modal */
+
+.modal-header h1 {
+	text-align: center;
+}
+
+.modal-body {
+	background-color: var(--primary-energetic-orange);
+}
+
+.modal-body .tagline {
+	color: var(--secondary-cool-gray);
+}
+
+.modal-body label {
+	font-family: inherit;
+	color: var(--primary-royal-purple);
+}
+
+#fitnessRegistrationModal button.fitness-cta {
+}
 /* 404 Page */
+
 #not-found p {
 	font-size: larger;
 }
