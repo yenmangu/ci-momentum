@@ -93,7 +93,8 @@ h1.logo-font {
 
 /* Hero */
 
-#hero {
+#hero,
+#hero-registration {
 	max-width: none;
 	background: url('../images/hero-index.webp') no-repeat center/cover;
 }
