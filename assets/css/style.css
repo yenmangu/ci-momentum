@@ -114,9 +114,13 @@ section.hero {
 	margin-bottom: 0;
 }
 
+/* Fitness user section */
+
 /* #testimonials {
 	background-color: var(--primary-energetic-orange);
 } */
+
+/* Testimonial section */
 
 #testimonials p {
 	color: var(--text-gray);
@@ -124,4 +128,21 @@ section.hero {
 
 .testimonial img {
 	max-height: 200px;
+}
+
+/* Footer */
+
+#social-networks {
+	text-align: center;
+	padding: 0;
+	display: flex;
+	justify-content: flex-start;
+	gap: 1rem;
+	list-style: none;
+}
+
+#social-networks i {
+	font-size: 160%;
+	padding: 5%;
+	color: var(--primary-royal-purple);
 }
