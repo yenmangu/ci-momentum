@@ -83,7 +83,7 @@ html,
 html > * {
 	font-family: 'Montserrat', sans-serif;
 	color: var(--secondary-deep-charcoal);
-	font-size: smaller;
+	font-size: 90%;
 }
 
 h1.logo-font {
