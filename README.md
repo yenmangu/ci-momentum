@@ -105,16 +105,16 @@ Other colours used
 
 ## User Stories
 
-| Target     | Expectation                                                                                   | Outcome                                                                                 |
-| ---------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| As a user  | I would like to know more about the platform                                                  | so that I can start my fitness journey                                                  |
-| As a user  | I would like information on a fitness tracking system                                         | so that I can monitor my fitness journey.                                               |
-| As a user  | I would like to see the details of a fitness platform features                                | so that I can choose my fitness app accordingly                                         |
-| As an user | I would like to view a gallery of images from a fitness platform                              | so that I can see examples of the fitness platform will look.                           |
-| As a user  | I would like to sign up for the running club                                                  | so that I can join the community and participate in events.                             |
-| As a user  | I would like to follow the platform on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with platform news and events.                               |
-| As a user  | I would like the website to be fully responsive                                               | so that I can easily navigate and access information from my phone, tablet, or desktop. |
-| As a user  | I would like to see a 404 error page if I get lost                                            | so that it's obvious that I've stumbled upon a page that doesn't exist.                 |
+| Target    | Expectation                                                                                   | Outcome                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| As a user | I would like to know more about the platform                                                  | so that I can start my fitness journey                                                  |
+| As a user | I would like information on a fitness tracking system                                         | so that I can monitor my fitness journey.                                               |
+| As a user | I would like to see the details of a fitness platform features                                | so that I can choose my fitness app accordingly                                         |
+| As a user | I would like to view a gallery of images from a fitness platform                              | so that I can see examples of the fitness platform will look.                           |
+| As a user | I would like to sign up for the running club                                                  | so that I can join the community and participate in events.                             |
+| As a user | I would like to follow the platform on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with platform news and events.                               |
+| As a user | I would like the website to be fully responsive                                               | so that I can easily navigate and access information from my phone, tablet, or desktop. |
+| As a user | I would like to see a 404 error page if I get lost                                            | so that it's obvious that I've stumbled upon a page that doesn't exist.                 |
 
 ## Wireframes
 
