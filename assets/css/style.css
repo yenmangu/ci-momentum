@@ -157,3 +157,12 @@ section.hero {
 .log-in-link {
 	margin-top: 1.5rem;
 }
+
+/* 404 Page */
+#not-found p {
+	font-size: larger;
+}
+
+#not-found a {
+	text-decoration: none;
+}
