@@ -151,3 +151,8 @@ section.hero {
 	padding: 5%;
 	color: var(--primary-royal-purple);
 }
+
+.privacy-link,
+.log-in-link {
+	margin-top: 1.5rem;
+}
