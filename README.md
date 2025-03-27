@@ -86,10 +86,10 @@ Users can directly contact Momentum if they wish to work with us as we are alway
 
 I used [coolors.co](https://coolors.co/6a0dad-ff3b30-1e1e1e-f2f2f2-ff9500) to generate my color palette.
 
-- `rgb(255,149,0)` / `#FF9500` primary text.
+- `rgb(224,131,0)` / `#FF9500` primary.
 - `rgb(106, 13, 173)` / `#6A0DAD` primary highlights.
-- `rgb(30,30,30)` / `#1E1E1E` secondary text.
-- `rgb(242,242,242)` / `#F2F2f2` background and tertiary.
+- `rgb(30,30,30)` / `#1E1E1E` Primary text.
+- `rgb(235,235,235)` / `#F2F2f2` background and tertiary.
 - `rgb(255,59,48)` / `#FF3B30` highlights.
 
 Other colours used
