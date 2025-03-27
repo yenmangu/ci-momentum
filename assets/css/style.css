@@ -44,6 +44,13 @@
 	line-height: 100%;
 }
 
+/* Button Override */
+
+button,
+.btn {
+	border-radius: 0;
+}
+
 /* Utility class for setting section colours */
 
 .alt-colour {
