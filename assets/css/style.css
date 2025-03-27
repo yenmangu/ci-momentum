@@ -44,6 +44,13 @@
 	line-height: 100%;
 }
 
+/* Utility class for setting section colours */
+
+.alt-colour {
+	background-color: var(--primary-energetic-orange);
+	color: var(--text-gray);
+}
+
 /* Remove default styles applied by browser */
 
 * {
@@ -107,9 +114,9 @@ section.hero {
 	margin-bottom: 0;
 }
 
-#testimonials {
-	background-color: rgba(var(--test-orange));
-}
+/* #testimonials {
+	background-color: var(--primary-energetic-orange);
+} */
 
 #testimonials p {
 	color: var(--text-gray);
