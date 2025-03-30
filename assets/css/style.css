@@ -21,6 +21,7 @@
 
 	--orange-opacity-bg: rgba(var(--energetic-orange), 0.6);
 	--purple-opacity-bg: rgba(var(--royal-purple), 0.6);
+	--logo-font: 'Chakra Petch', sans-serif;
 }
 
 /* Utility classes for overriding bootstrap */
@@ -102,6 +103,30 @@ html > * {
 h1.logo-font {
 	color: var(--secondary-cool-gray);
 	text-transform: uppercase;
+}
+
+/* Nav */
+
+/* nav {
+	background-color: var(--secondary-deep-charcoal);
+} */
+.navbar-brand {
+	color: var(--primary-energetic-orange);
+	font-family: var(--logo-font);
+	font-weight: 700;
+	font-style: italic;
+}
+
+span.navbar-toggler-icon {
+	color: var(--primary-energetic-orange);
+}
+
+.nav-link {
+	color: var(--secondary-deep-charcoal);
+}
+
+.navbar-nav .nav-link.active {
+	color: var(--primary-energetic-orange);
 }
 
 /* Hero */
