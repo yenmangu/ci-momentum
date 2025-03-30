@@ -146,6 +146,14 @@ I've used [Figma](https://www.figma.com/) to design my site wireframes.
 
 Using the **Must-Have**, **Should-Have**, **Could-Have** and **Won't-Have** prioritisation method, the user stories are prioritised in order to better manage the time and resources of the project effectively.
 
+#### Must Haves
+
+#### Should Haves
+
+#### Could Haves
+
+#### Won't Haves
+
 <!-- NOTES FOR ME -->
 <!-- DOUBLE CHECK ALL CREDITS AND RESOURCES USED BEFORE SUBMISSION. -->
 
