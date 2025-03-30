@@ -121,13 +121,16 @@ Other colours used
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Figma](https://www.figma.com/) to design my site wireframes.
 
-| Page                           | Mobile                                                                       | Tablet | Desktop |
-| ------------------------------ | ---------------------------------------------------------------------------- | ------ | ------- |
-| Home                           | ![screenshot](documentation/ux/wireframes/ios/home.png)                      |        |         |
-| Fitness User Registration      | ![screenshot](documentation/ux/wireframes/ios/fitness-registration.png)      |        |         |
-| Fitness User Registration Form | ![screenshot](documentation/ux/wireframes/ios/fitness-registration-form.png) |        |         |
+| Page              | Mobile                                                                   | Tablet                                                                      | Desktop                                                                      |
+| ----------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Home              | ![screenshot](documentation/ux/wireframes/iOS%20Home.png)                | ![screenshot](documentation/ux/wireframes/Tablet%20Home.png)                | ![screenshot](documentation/ux/wireframes/Desktop%20Home.png)                |
+| Features          | ![screenshot](documentation/ux/wireframes/iOS%20Features.png)            | ![screenshot](documentation/ux/wireframes/Tablet%20Features.png)            | ![screenshot](documentation/ux/wireframes/Desktop%20Features.pngg)           |
+| Registration      | ![screenshot](documentation/ux/wireframes/iOS%20Registration.png)        | ![screenshot](documentation/ux/wireframes/iOS%20Registration.png)           | ![screenshot](documentation/ux/wireframes/Desktop%20Registration.png)        |
+| Registration Form | ![screenshot](documentation/ux/wireframes/iOS%20Registration%20Form.png) | ![screenshot](documentation/ux/wireframes/Tablet%20Registration%20Form.png) | ![screenshot](documentation/ux/wireframes/Desktop%20Registration%20Form.png) |
 
 ## Features
+
+
 
 ### Future Features
 
