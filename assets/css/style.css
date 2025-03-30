@@ -180,10 +180,10 @@ button.royal-btn:hover {
 	border-color: var(--primary-royal-purple);
 }
 
-.fitness-cta
 /* Modal */
 
-.modal-content, .registration-form input {
+.modal-content.sharp-corners,
+.registration-form input {
 	border-radius: 0;
 }
 
