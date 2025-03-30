@@ -75,6 +75,8 @@ body {
 }
 
 main {
+	display: flex;
+	flex-direction: column;
 	flex-grow: 1;
 }
 
@@ -181,6 +183,10 @@ section.hero {
 }
 
 /* Fitness Registration */
+
+#cta-fitness {
+	flex-grow: 1;
+}
 
 button.royal-btn {
 	background-color: rgba(255, 255, 255, 0);
