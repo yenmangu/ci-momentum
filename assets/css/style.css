@@ -74,6 +74,10 @@ body {
 	background-color: var(--secondary-cool-gray);
 }
 
+main {
+	flex-grow: 1;
+}
+
 .logo-font {
 	font-family: 'Chakra Petch', sans-serif;
 	font-weight: 700;
