@@ -172,10 +172,6 @@ section.hero {
 }
 /* Testimonial section */
 
-#testimonials p {
-	color: var(--text-gray);
-}
-
 .testimonial img {
 	max-height: 200px;
 }
