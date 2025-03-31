@@ -150,7 +150,9 @@ span.navbar-toggler-icon {
 /* Hero */
 
 #hero,
-#hero-registration {
+#registration-hero,
+#momentum-hero,
+#index-hero {
 	max-width: none;
 	background: url('../images/hero-index.webp') no-repeat center/cover;
 }
