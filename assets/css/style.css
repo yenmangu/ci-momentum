@@ -287,11 +287,13 @@ section.hero {
 
 #fitnessRegistrationModal button.fitness-cta {
 }
+
 /* 404 Page */
 #not-found {
-	/* Ensure sectin fills screen */
+	/* Ensure sectin fills remaining */
 	flex-grow: 1;
 }
+
 #not-found p {
 	font-size: larger;
 }
