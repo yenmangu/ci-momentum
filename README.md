@@ -136,19 +136,16 @@ I've used [Figma](https://www.figma.com/) to design my site wireframes.
 | About Momentum     | This section of the home page will include an overview of the *Momentum* platform. It will have a clear CTA to guide the user to signing up                                                                                                                                                                                                                                                                                                                                                                                                                      | ![About](documentation/ux/features/about.png)                                                                   |
 | 404                | The 404 error page will indicate when a user has somehow navigated to a page that doesnt exist. This replaces the default GitHub 404 page, and ties in with the look, feel and tone of the *Momentum* site, while also mainting uniformity by using the same navbar and footer                                                                                                                                                                                                                                                                                   | ![404 page](documentation/ux/features/404.png)                                                                  |
 | Registration Form  | This page will allow the user to sign up to *Momentum* and start their running journey with the community. The user will be able specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address.                                                                                                                                                                                                                                                                           | ![Registration form](documentation/ux/features/registration.png)                                                |
-| Momentum features  | This page details the features of the momentum platform and how it will benefit the user. To be built and styled with Bootstrap grid, this page will present the information to the user without overwhelming them. The grid system will ensure full responsiveness. ![Momentum features](documentation/ux/features/features.png)                                                                                                                                                                                                                                |
+| Momentum features  | This page details the features of the momentum platform and how it will benefit the user. To be built and styled with Bootstrap grid, this page will present the information to the user without overwhelming them. The grid system will ensure full responsiveness.                                                                                                                                                                                                                                                                                             | ![Momentum features](documentation/ux/features/features.png)                                                    |
 | Social Media Links | Situated in the footer, these will provide an instantly recognisable way to engage with the Momentum platform on various social medias.                                                                                                                                                                                                                                                                                                                                                                                                                          | ![Social Icons](documentation/ux/features/social-icons.png)                                                     |
 | Success Page       | The success page will give the illusion that the signup form was submitted successfully to the *Momentum* platform. Due to the lack of a database or email system so far, this is a fake confirmation page and includes a *Home* link for the user to navigate home                                                                                                                                                                                                                                                                                              | ![Success Page](documentation/ux/features/success.png)                                                          |
 
 ### Future Features
 
 <!-- Features to implement here -->
-- Navigation
-- Primary user registration form
-- Secondary user 'interest' form
-- About Momentum
-- Platform feature showcase
-- Responsive on any device
+- **Gallery of Momentum platform images**: Showcase images of the Momentum platform in use.
+- **Gym Owner Partnerships**: Add a feature that allows gym owners to partner with *Momentum* to provide an all in one service to customers
+- **Fitness Tracking System**: Add a feature to have showcase the personalised fitness tracking system.
 
 ### **MoSCoW** Prioritisation
 
@@ -161,16 +158,6 @@ I've decomposed my Epics into User Stories for prioritizing and implementing the
 - **Could Have**: has small impact if left out (*the rest ~20% of stories*)
 - **Won't Have**: not a priority for this iteration - future features
 
-#### Must Haves
-
-#### Should Haves
-
-#### Could Haves
-
-#### Won't Haves
-
-<!-- NOTES FOR ME -->
-<!-- DOUBLE CHECK ALL CREDITS AND RESOURCES USED BEFORE SUBMISSION. -->
 
 ## Tools & Technologies
 
