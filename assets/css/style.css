@@ -195,9 +195,9 @@ section.hero {
 }
 
 #social-networks i {
-	font-size: 160%;
+	font-size: 200%;
 	padding: 5%;
-	color: var(--primary-royal-purple);
+	color: var(--secondary-cool-gray);
 }
 
 .privacy-link,
