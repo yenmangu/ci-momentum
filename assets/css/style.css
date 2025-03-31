@@ -167,7 +167,8 @@ header {
 #hero,
 #registration-hero,
 #momentum-hero,
-#index-hero {
+#index-hero,
+#success-hero {
 	max-width: none;
 	background: url('../images/hero-index.webp') no-repeat center/cover;
 }
