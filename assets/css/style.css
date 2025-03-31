@@ -242,11 +242,11 @@ section.hero {
 /* Momentum Page */
 
 #momentum-features .card {
-	min-height: 480px;
+	min-height: 542px;
 	border-radius: 0;
 }
 
-#momentum-features .img.card-img-top {
+#momentum-features img.card-img-top {
 	max-width: 400px;
 	border-radius: 0;
 }
