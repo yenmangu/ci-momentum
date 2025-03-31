@@ -243,18 +243,13 @@ There are no remaining major differences between the local version when compared
 
 ### Media
 
-| Source                                                                                     | Notes                                                |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| [favicon.io](https://favicon.io)                                                           | Generating the favicon                               |
-| [Rosie CV](https://codeinstitute.net)                                                      | Sample images provided from the walkthrough projects |
-| [Font Awesome](https://fontawesome.com)                                                    | Icons used throughout the site                       |
-| [Pexels](https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg)                 | Hero image                                           |
-| [Wallhere](https://c.wallhere.com/images/9c/c8/da4b4009f070c8e1dfee43d25f99-2318808.jpg!d) | Background wallpaper                                 |
-| [Pixabay](https://cdn.pixabay.com/photo/2017/09/04/16/58/passport-2714675_1280.jpg)        | Background wallpaper                                 |
-| [DALL-E 3](https://openai.com/index/dall-e-3)                                              | AI generated artwork                                 |
-| [TinyPNG](https://tinypng.com)                                                             | Compressing images < 5MB                             |
-| [CompressPNG](https://compresspng.com)                                                     | Compressing images > 5MB                             |
-| [CloudConvert](https://cloudconvert.com/webp-converter)                                    | Converting images to `.webp`                         |
+| Source                                                  | Notes                                                |
+| ------------------------------------------------------- | ---------------------------------------------------- |
+| [favicon.io](https://favicon.io)                        | Generating the favicon                               |
+| [Rosie CV](https://codeinstitute.net)                   | Sample images provided from the walkthrough projects |
+| [Font Awesome](https://fontawesome.com)                 | Icons used throughout the site                       |
+| [DALL-E 3](https://openai.com/index/dall-e-3)           | AI generated artwork                                 |
+| [CloudConvert](https://cloudconvert.com/webp-converter) | Converting images to `.webp`                         |
 
 ### Acknowledgements
 
