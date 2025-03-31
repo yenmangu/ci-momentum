@@ -246,7 +246,7 @@ section.hero {
 /* Momentum Page */
 
 #momentum-features .card {
-	min-height: 542px;
+	min-height: 570px;
 	border-radius: 0;
 }
 
@@ -295,4 +295,14 @@ section.hero {
 
 #not-found a {
 	text-decoration: none;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 576px) {
+	/* Remove card min height on mobile */
+	#momentum-features .card,
+	.card {
+		min-height: fit-content;
+	}
 }
