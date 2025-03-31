@@ -288,7 +288,10 @@ section.hero {
 #fitnessRegistrationModal button.fitness-cta {
 }
 /* 404 Page */
-
+#not-found {
+	/* Ensure sectin fills screen */
+	flex-grow: 1;
+}
 #not-found p {
 	font-size: larger;
 }
