@@ -33,12 +33,6 @@
 	color: var(--primary-royal-purple);
 }
 
-.btn.royal {
-	background-color: var(--primary-royal-purple);
-	color: var(--secondary-cool-gray);
-	border: var(--primary-royal-purple);
-}
-
 .text-small {
 	color: var(--secondary-deep-charcoal);
 	font-size: 16px;
@@ -55,7 +49,7 @@ button,
 
 .alt-colour {
 	background-color: var(--primary-energetic-orange);
-	color: var(--text-gray);
+	color: var(--secondary-deep-charcoal);
 }
 
 /* Remove default styles applied by browser */
@@ -113,6 +107,11 @@ h1.logo-font {
 	font-family: var(--logo-font);
 	font-weight: 700;
 	font-style: italic;
+	font-size: 26px;
+}
+
+.navbar-brand:hover {
+	color: var(--primary-energetic-orange);
 }
 
 span.navbar-toggler-icon {
@@ -124,7 +123,7 @@ span.navbar-toggler-icon {
 }
 
 .navbar-nav .nav-link.active {
-	color: var(--primary-energetic-orange);
+	color: var(--primary-royal-purple);
 }
 
 /* Hero */
@@ -220,7 +219,8 @@ section.hero {
 button.royal-btn {
 	background-color: rgba(255, 255, 255, 0);
 	border: 2px solid var(--primary-royal-purple);
-	color: var(--primary-royal-purple);
+	color: var(--secondary-deep-charcoal);
+	font-weight: bold;
 }
 
 button.royal-btn:hover {
