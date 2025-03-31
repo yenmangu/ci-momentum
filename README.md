@@ -121,16 +121,19 @@ Other colours used
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Figma](https://www.figma.com/) to design my site wireframes.
 
-| Page              | Mobile                                                                   | Tablet                                                                      | Desktop                                                                      |
-| ----------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Home              | ![screenshot](documentation/ux/wireframes/iOS%20Home.png)                | ![screenshot](documentation/ux/wireframes/Tablet%20Home.png)                | ![screenshot](documentation/ux/wireframes/Desktop%20Home.png)                |
-| Features          | ![screenshot](documentation/ux/wireframes/iOS%20Features.png)            | ![screenshot](documentation/ux/wireframes/Tablet%20Features.png)            | ![screenshot](documentation/ux/wireframes/Desktop%20Features.png)            |
-| Registration      | ![screenshot](documentation/ux/wireframes/iOS%20Registration.png)        | ![screenshot](documentation/ux/wireframes/iOS%20Registration.png)           | ![screenshot](documentation/ux/wireframes/Desktop%20Registration.png)        |
-| Registration Form | ![screenshot](documentation/ux/wireframes/iOS%20Registration%20Form.png) | ![screenshot](documentation/ux/wireframes/Tablet%20Registration%20Form.png) | ![screenshot](documentation/ux/wireframes/Desktop%20Registration%20Form.png) |
+| Page              | Mobile                                                               | Tablet                                                                  | Desktop                                                                  |
+| ----------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Home              | ![screenshot](documentation/ux/wireframes/ios-home.png)              | ![screenshot](documentation/ux/wireframes/tablet-home.png)              | ![screenshot](documentation/ux/wireframes/desktop-home.png)              |
+| Features          | ![screenshot](documentation/ux/wireframes/ios-features.png)          | ![screenshot](documentation/ux/wireframes/tablet-features.png)          | ![screenshot](documentation/ux/wireframes/desktop-features.png)          |
+| Registration      | ![screenshot](documentation/ux/wireframes/ios-registration.png)      | ![screenshot](documentation/ux/wireframes/tablet-registration.png)      | ![screenshot](documentation/ux/wireframes/desktop-registration.png)      |
+| Registration Form | ![screenshot](documentation/ux/wireframes/ios-registration-form.png) | ![screenshot](documentation/ux/wireframes/tablet-registration-form.png) | ![screenshot](documentation/ux/wireframes/desktop-registration-form.png) |
 
 ## Features
 
-
+| Feature | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Screenshot                                                                                                      |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Navbar  | Featured on everypage, the fully responsive navbar includes links to the Home page, Momentum platform page and the Registration page. It is identical across all pages to alllow for easy navigation. On the smallest screen size the burger icon is used to toggle the navbar drawer so it doesnt take up too much space. This section will allow the user to navigate from page to page across all devices without having to revert back to the previous page via the 'back' button. The navbar is also `fixed`, so it stays in view even if the user scrolls. | ![desktop](documentation/ux/features/navbar-desktop.png) ![mobile](documentation/ux/features/navbar-mobile.png) |
+| 404     | The 404 error page will indicate when a user has somehow navigated to a page that doesnt exist. This replaces the default GitHub 404 page, and ties in with the look, feel and tone of the *Momentum* site, while also mainting uniformity by using the same navbar and footer                                                                                                                                                                                                                                                                                   | ![404 page](documentation/ux/features/404.png)                                                                  |
 
 ### Future Features
 
@@ -145,6 +148,13 @@ I've used [Figma](https://www.figma.com/) to design my site wireframes.
 ### **MoSCoW** Prioritisation
 
 Using the **Must-Have**, **Should-Have**, **Could-Have** and **Won't-Have** prioritisation method, the user stories are prioritised in order to better manage the time and resources of the project effectively.
+
+I've decomposed my Epics into User Stories for prioritizing and implementing them. Using this approach, I was able to apply "MoSCow" prioritization and labels to my User Stories within the Issues tab.
+
+- **Must Have**: guaranteed to be delivered - required to Pass the project (*max ~60% of stories*)
+- **Should Have**: adds significant value, but not vital (*~20% of stories*)
+- **Could Have**: has small impact if left out (*the rest ~20% of stories*)
+- **Won't Have**: not a priority for this iteration - future features
 
 #### Must Haves
 
