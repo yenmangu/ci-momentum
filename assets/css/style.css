@@ -51,6 +51,17 @@
 	border-color: var(--primary-royal-purple);
 }
 
+/* Cards */
+
+.card {
+	align-items: center;
+	padding: 1rem;
+}
+
+.img.card-img-top {
+	max-width: 300px;
+}
+
 /* Button border Override */
 
 button,
@@ -165,7 +176,7 @@ section.hero {
 /* Features section */
 
 #home-features .card {
-	min-height: 640px;
+	min-height: 700px;
 }
 
 .card-text {
