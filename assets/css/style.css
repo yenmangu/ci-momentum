@@ -41,8 +41,7 @@
 
 .text-small {
 	color: var(--secondary-deep-charcoal);
-	font-size: 80%;
-	line-height: 100%;
+	font-size: 16px;
 }
 
 /* Button Override */
@@ -97,7 +96,6 @@ html,
 html > * {
 	font-family: 'Montserrat', sans-serif;
 	color: var(--secondary-deep-charcoal);
-	font-size: 90%;
 }
 
 h1.logo-font {
@@ -161,7 +159,7 @@ section.hero {
 }
 
 .card-text {
-	line-height: normal;
+	font-size: 1rem;
 }
 /* Testimonial section */
 
