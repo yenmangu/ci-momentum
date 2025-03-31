@@ -123,6 +123,15 @@ h1.logo-font {
 
 /* Nav */
 
+nav.navbar {
+	/* Keep navbar fixed to top of screen, and above all other elements */
+	position: fixed;
+	width: 100%;
+	top: 0;
+	background-color: var(--secondary-cool-gray);
+	z-index: 10;
+}
+
 .navbar-brand {
 	color: var(--primary-energetic-orange);
 	font-family: var(--logo-font);
@@ -145,6 +154,12 @@ span.navbar-toggler-icon {
 
 .navbar-nav .nav-link.active {
 	color: var(--primary-royal-purple);
+}
+
+/* Header */
+header {
+	/* To accomodate fixed nav */
+	margin-top: 65px;
 }
 
 /* Hero */
@@ -228,6 +243,12 @@ section.hero {
 
 #momentum-features .card {
 	min-height: 480px;
+	border-radius: 0;
+}
+
+#momentum-features .img.card-img-top {
+	max-width: 400px;
+	border-radius: 0;
 }
 
 /* Fitness Registration Page */
