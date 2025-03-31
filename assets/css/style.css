@@ -22,6 +22,7 @@
 	--orange-opacity-bg: rgba(var(--energetic-orange), 0.6);
 	--purple-opacity-bg: rgba(var(--royal-purple), 0.6);
 	--logo-font: 'Chakra Petch', sans-serif;
+	--max-width: 1320px;
 }
 
 /* Utility classes for overriding bootstrap */
@@ -259,6 +260,12 @@ section.hero {
 
 #cta-fitness {
 	flex-grow: 1;
+}
+
+#cta-fitness > .row {
+	max-width: var(--max-width);
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* Modal */
