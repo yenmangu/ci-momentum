@@ -179,6 +179,9 @@ section.hero {
 }
 
 .hero > .col {
+	/* Keep hero text aligned with edge of responsive screen */
+	max-width: 1320px;
+	margin: 0 auto;
 	align-self: end;
 }
 
