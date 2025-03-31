@@ -99,9 +99,6 @@ h1.logo-font {
 
 /* Nav */
 
-/* nav {
-	background-color: var(--secondary-deep-charcoal);
-} */
 .navbar-brand {
 	color: var(--primary-energetic-orange);
 	font-family: var(--logo-font);
@@ -216,14 +213,14 @@ section.hero {
 	flex-grow: 1;
 }
 
-button.royal-btn {
+.royal-btn {
 	background-color: rgba(255, 255, 255, 0);
 	border: 2px solid var(--primary-royal-purple);
 	color: var(--secondary-deep-charcoal);
 	font-weight: bold;
 }
 
-button.royal-btn:hover {
+.royal-btn:hover {
 	background-color: var(--primary-royal-purple);
 	color: var(--secondary-cool-gray);
 	border-color: var(--primary-royal-purple);
