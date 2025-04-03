@@ -169,7 +169,8 @@ header {
 #registration-hero,
 #momentum-hero,
 #index-hero,
-#success-hero {
+#success-hero,
+#privacy-hero {
 	max-width: none;
 	background: url('../images/hero-index.webp') no-repeat center/cover;
 }
