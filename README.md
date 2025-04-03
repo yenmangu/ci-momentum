@@ -158,6 +158,10 @@ I've decomposed my Epics into User Stories for prioritizing and implementing the
 - **Could Have**: has small impact if left out (*the rest ~20% of stories*)
 - **Won't Have**: not a priority for this iteration - future features
 
+## Testing
+
+> [!NOTE]
+> For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Tools & Technologies
 
@@ -223,10 +227,6 @@ By forking the GitHub Repository, you make a copy of the original repository on 
 ### Local VS Deployment
 
 There are no remaining major differences between the local version when compared to the deployed version online.
-
-### Local Clone
-
-<!-- Local Clone -->
 
 ## Credits
 
