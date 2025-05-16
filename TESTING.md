@@ -90,12 +90,12 @@ Defensive programming was manually tested with the below user acceptance testing
 
 | Target    | Expectation                                                                                   | Outcome                                                                                 | Screenshot                                             |
 | --------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| As a user | I would like to know more about the platform                                                  | so that I can start my fitness journey                                                  | ![screenshot](documentation/features/about.png)        |
-| As a user | I would like to see the details of a fitness platform features                                | so that I can choose my fitness app accordingly                                         | ![screenshot](documentation/features/features.png)     |
-| As a user | I would like to sign up for a fitness platform                                                | so that I can use the app and enjoy its benefits.                                       | ![screenshot](documentation/features/registration.png) |
-| As a user | I would like to follow the platform on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with platform news and events.                               | ![screenshot](documentation/features/social-icons.png) |
+| As a user | I would like to know more about the platform                                                  | so that I can start my fitness journey                                                  | ![screenshot](documentation/ux/features/about.png)        |
+| As a user | I would like to see the details of a fitness platform features                                | so that I can choose my fitness app accordingly                                         | ![screenshot](documentation/ux/features/features.png)     |
+| As a user | I would like to sign up for a fitness platform                                                | so that I can use the app and enjoy its benefits.                                       | ![screenshot](documentation/ux/features/registration.png) |
+| As a user | I would like to follow the platform on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with platform news and events.                               | ![screenshot](documentation/ux/features/social-icons.png) |
 | As a user | I would like the website to be fully responsive                                               | so that I can easily navigate and access information from my phone, tablet, or desktop. | [See responsiveness](#responsiveness)                  |
-| As a user | I would like to see a 404 error page if I get lost                                            | so that it's obvious that I've stumbled upon a page that doesn't exist.                 | ![screenshot](documentation/features/404.png)          |
+| As a user | I would like to see a 404 error page if I get lost                                            | so that it's obvious that I've stumbled upon a page that doesn't exist.                 | ![screenshot](documentation/ux/features/404.png)          |
 
 
 ## Bugs
